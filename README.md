@@ -1,5 +1,7 @@
 # 환상수호전 IV 한국어 패치 (Suikoden IV Korean Patch)
 
+![환상수호전 IV 한국어 패치 타이틀 화면](images/title.png)
+
 PS2 일본판 **幻想水滸伝IV (Genso Suikoden IV)**용 비공식 한국어 번역 패치입니다.
 게임 ISO는 배포하지 않으며, 본인이 가진 원본 ISO에 적용하는 xdelta 차분 패치만 제공합니다.
 
